@@ -347,12 +347,7 @@ function saveDots() {
 
 function writeShit() {
 
-  fill(247, 247, 255);
-  textSize(25);
-  noStroke();
-  text(" \tPress P to play the game yourself \t\t\t\t\t\t\t\t Press G to replay evolution highlights", 370, 720);
-
-  text("Press SPACE to only show the best player", 570, 760);
+ 
 
   if (winCounter > 0) {
 
